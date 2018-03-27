@@ -1,0 +1,51 @@
+.card {
+  /*place to calibrate your card */
+      margin: 10px;
+      margin-left: 30px;
+      margin-bottom: 3px;
+      width: 330px;
+      border: 3.5px;
+      border-radius: 5px;
+      box-shadow:0px 10px 50px 0px;
+      padding: 5px;
+      background-image: url("https://cdn.pixabay.com/photo/2016/10/02/15/51/background-1709786_960_720.jpg");
+
+}
+
+.image {
+   /*place to calibrate your image */
+      display: block;
+      margin-left: auto;
+      margin-right:auto;
+      margin-bottom: 20px;
+      margin-top: 5px;
+      border: 1.5px outset LightBlue;
+      border-radius: 10px;
+
+
+}
+.text {
+      margin: auto;
+      border: 2.5px outset LightBlue;
+  	  border-radius: 9px;
+      width: 300px;
+      font-size: normal;
+      background-image: url("https://s3.envato.com/files/213512225/set/02.jpg");
+      background-repeat: round;
+}
+.title {
+     text-decoration: underline;
+     text-align: center;
+     margin-bottom: 2px;
+     color: gold;
+  }
+.interesting {
+     font-style: italic;
+}
+span{
+     font-weight:bold;
+ }
+
+li {
+   list-style: none;
+}
